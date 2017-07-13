@@ -1,7 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="Bharat Builders" id="Bharat Builders" version="1.0">
-  <name>Bharat Builders</name>
-  <description>Bharat Builders</description>
-  <author href="http://www.bharatbuilders.com/" email="bharatbuilders@vsnl.net">Bharat Builders</author>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="URL App" id="URL App" version="1.0">
+  <name>URL App</name>
+  <description>URL App</description>
+  <author href="http://www.test.com" email="syed_zafarullah@hotmail.com">URL App</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
