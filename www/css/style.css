@@ -226,8 +226,9 @@ body {
 }
 @media(max-width:480px){
 .s-bar input[type="text"] {
-  width: 55%;
+  width: 76%;
   font-size: 0.8em;	
+  border-radius:20px;
 }
 .s-bar input[type="submit"] {
   width: 30%;
